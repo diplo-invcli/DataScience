@@ -5,8 +5,12 @@ En este lugar dejaremos algunas sesiones y datos a medida que avancemos en el cu
 
 1. Markdown
 2. CSV
-3. Presentaciones
+3. Presentaciones y mucho más.
 
 Este es nuestro primer repositorio.
 Lo siguiente será clonarlo a nuestro computador.
+
+---
+
+Estas son modificaciones al archivo original.
 
